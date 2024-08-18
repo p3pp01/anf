@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
-            <i class="fas fa-file-alt text-gray-500 dark:text-gray-300 mr-2"></i>
+        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+            <i class="fas fa-file-alt text-gray-500 mr-2"></i>
             PDF Import Logs
         </h2>
     </x-slot>
